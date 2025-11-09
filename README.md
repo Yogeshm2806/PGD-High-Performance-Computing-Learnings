@@ -30,6 +30,6 @@ Each folder in this repo represents one subject with topic-wise notes, code exam
 | Cloud            | AWS, Azure (basics)                                |
 | DevOps           | Git, GitHub, Jenkins, Docker, Kubernetes           |
 | Networking       | TCP/IP, Subnetting, Routing, Protocols             |
-
+| Hadoop           | JAVA, MapReduce, LDAP                              |
 
 
